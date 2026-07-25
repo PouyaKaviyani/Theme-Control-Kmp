@@ -7,7 +7,6 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import com.pouyakaviyani.themecontrolkmp.ThemeViewModel
 
-
 @Composable
 fun AppTheme(
     themeViewModel: ThemeViewModel,
